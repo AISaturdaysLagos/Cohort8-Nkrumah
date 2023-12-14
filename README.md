@@ -74,6 +74,13 @@ Write a brief summary about the project here (what problem are you solving , wha
 -	[Chinelo Okafor](https://www.linkedin.com/in/chinelo-okafor)
 -	[Rapheal Alemoh](https://www.linkedin.com/in/alemoh-rapheal-baja/)
 
+# Challenges
+
+- Data Labelling
+
+# Recommendations 
+
+The project can be explored and used for further analysis.
 
 ## Requirements:
 Your project should involve the following components:
