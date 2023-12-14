@@ -1,5 +1,4 @@
-# Project/ App Title
-[Sentiment Analysis on Social Media]
+Sentiment Analysis on Social Media
 
 [This readme should contain details about you team and project. Please Feel free to modify and expand upon this template to suit the specific needs and details of your group project]
 
