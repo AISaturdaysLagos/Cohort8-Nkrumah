@@ -1,0 +1,32 @@
+# Importing the imporant libraries that will be used thoughout the notebook
+import pandas as pd
+import numpy as np
+from IPython.display import display
+
+import matplotlib.pyplot as plt
+import re
+import string
+
+import nltk
+from nltk.tokenize import sent_tokenize
+from nltk.corpus import words
+from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize
+from nltk.stem import WordNetLemmatizer
+from nltk.stem import PorterStemmer
+#from nltk.sentiment.vader import SentimentIntensityAnalyzer
+from nltk.sentiment.util import *
+nltk.download('stopwords')
+nltk.download('vader_lexicon')
+
+
+from collections import Counter
+
+from matplotlib import pyplot as plt
+from matplotlib import ticker
+import seaborn as sns
+import plotly.express as px
+
+
+
+# Use of the EndSars dataset in CSV format

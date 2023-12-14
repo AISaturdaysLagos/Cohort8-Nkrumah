@@ -1,16 +1,25 @@
 **Sentiment Analysis on Social Media**
 
-[This readme should contain details about you team and project. Please Feel free to modify and expand upon this template to suit the specific needs and details of your group project]
+```The topic of the Nkrumah project is sentiment analysis on social media using the Endsars datasets as a use case```
 
 ## Project description 
 Write a brief summary about the project here (what problem are you solving , whats your solution) including goals, and key features
+```Sentiment analysis on social media is significant due to its potential applications across diverse domains. It offers insights into public perceptions, sentiments, and trends, aiding businesses in brand management, product development, and customer service. Politicians and policymakers can leverage sentiment analysis to gauge public opinion, while healthcare organizations can monitor sentiments about healthcare services and policies. Furthermore, sentiment analysis is valuable for understanding societal trends and aiding crisis management.```
+
+```We propose a machine learning-based sentiment analysis approach utilizing natural language processing (NLP) techniques. This approach involves preprocessing the social media text data, extracting relevant features, and employing a supervised learning technique for sentiment classification.```
+
+```The solution of sentiment analysis on social media data provides valuable insights that can influence decision-making, strategy formulation, and overall public engagement across a wide range of sectors and industries.```
+
+- Key Features 
+```A machine learning-based sentiment analysis approach utilizing natural language processing (NLP) techniques. This feature involves preprocessing the social media text data, extracting relevant features, and employing a supervised learning technique for sentiment classification.```
 
 # Overview of Sentiment Analysis
 
 ```Sentiment analysis, also known as opinion mining, is a computational technique used to determine the sentiment expressed in a piece of text. It involves analyzing the subjective information present in the text to categorize it into positive, negative, or neutral sentiments. Sentiment analysis can be performed at various levels, such as document-level, sentence-level, or aspect-level, to capture different nuances of sentiment.```
 
 # Relevance in the Context of Social Media
-Sentiment analysis is highly relevant in the context of social media due to the immense volume of user-generated content being shared daily. Social media platforms are a hub of diverse opinions, emotions, and attitudes expressed by individuals and communities. Understanding public sentiment on social media is crucial for several reasons:
+
+```Sentiment analysis is highly relevant in the context of social media due to the immense volume of user-generated content being shared daily. Social media platforms are a hub of diverse opinions, emotions, and attitudes expressed by individuals and communities. Understanding public sentiment on social media is crucial for several reasons:```
 
 1. Brand Perception and Marketing
    Companies can gauge how their brand or products are perceived by analyzing social media sentiments. Positive sentiment can guide marketing strategies, while negative sentiment can indicate areas for improvement.
@@ -36,26 +45,34 @@ Sentiment analysis is highly relevant in the context of social media due to the 
 ## Table of Contents
 
 ## Getting Started 
-Explain how to get a copy of the project up and running on a local machine for development and testing purposes
+```The copy of the project can be gotten from the repository and setup using the installation guide mentioned below.```
+
 
 ## Installation
-Step-by-step instructions on how to install and set up the project
+
+- Clone the repository from GIT
+- Run the pip install command from from the command line on the path of the project
+- Review the copy of the Endsars data 
+- Run the project to see the sentiment analysis on the Tweets.
+
 
 ## Acknowledgments
-List and thank contributors, libraries, or resources that have been used or inspired the project
+
+- Worthy of mention is the contribution of the Team mentor
+- Notable Libraries used in the projects: Pandas, NumPy, and Scikit-learn
+- The use of Machine Learning, NLP Techniques, and Sentiment Analysis Algorithms.
+
 
 ## Contact
-Provide contact information for the project maintainers or team members
+``` Listed below is the Team mentor and members who have contributed to the project with link to their Linkedin profile```
 
 # Team Mentor
--	Dr. Olumide Okubadejo
+-	[Dr. Olumide Okubadejo](https://www.linkedin.com/in/olumide-okubadejo)
 
 # Team Members
--	Samuel Ekuma
--	Chinelo Okafor
--	Rapheal Alemoh
--	Oluwafunto Daramola
--	Chisom Nnnena
+-	[Samuel Ekuma](https://www.linkedin.com/in/samuelekuma)
+-	[Chinelo Okafor](https://www.linkedin.com/in/chinelo-okafor)
+-	[Rapheal Alemoh](https://www.linkedin.com/in/alemoh-rapheal-baja/)
 
 
 ## Requirements:
