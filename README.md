@@ -62,6 +62,13 @@ Write a brief summary about the project here (what problem are you solving , wha
 - Notable Libraries used in the projects: Pandas, NumPy, and Scikit-learn
 - The use of Machine Learning, NLP Techniques, and Sentiment Analysis Algorithms.
 
+## Resources
+
+- Manning, C. D., Raghavan, P., & Schütze, H. (2008). *Introduction to Information Retrieval*. Cambridge University Press. https://nlp.stanford.edu/IR-book/information-retrieval-book.html
+- Scikit-learn Documentation: Official documentation for Scikit-learn, a widely used Python library for machine learning.
+- NLTK Documentation: Official documentation for the Natural Language Toolkit (NLTK) in Python
+- Pang, B., & Lee, L. (2008). Opinion mining and sentiment analysis. *Foundations and Trends® in Information Retrieval, 2*(1-2), 1-135.
+- Socher, R., et al. (2013). Recursive deep models for semantic compositionality over a sentiment treebank. *Conference on Empirical Methods in Natural Language Processing (EMNLP)*.
 
 ## Contact
 ``` Listed below is the Team mentor and members who have contributed to the project with link to their Linkedin profile```
@@ -76,11 +83,15 @@ Write a brief summary about the project here (what problem are you solving , wha
 
 # Challenges
 
-- Data Labelling
+- Inconsistency in meeting attendance by members
 
 # Recommendations 
 
 The project can be explored and used for further analysis.
+
+# Demo Day
+
+- [Nkrumah- Presentation Slide](https://docs.google.com/presentation/d/1aEVFr4BSqaqQTu6ILqO6AFS8llTvQjcq/edit?usp=sharing&ouid=101707773297919737419&rtpof=true&sd=true)
 
 ## Requirements:
 Your project should involve the following components:
